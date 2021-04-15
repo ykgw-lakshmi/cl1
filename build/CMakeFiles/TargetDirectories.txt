@@ -1,0 +1,5 @@
+D:/vscode_new/cl1/build/CMakeFiles/edit_cache.dir
+D:/vscode_new/cl1/build/CMakeFiles/package_source.dir
+D:/vscode_new/cl1/build/CMakeFiles/rebuild_cache.dir
+D:/vscode_new/cl1/build/CMakeFiles/package.dir
+D:/vscode_new/cl1/build/CMakeFiles/gateway.dir

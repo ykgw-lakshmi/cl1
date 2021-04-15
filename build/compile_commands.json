@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/vscode_new/cl1/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2019\\PROFES~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo -DGB_DEBUG_ALLOC -DGB_MEASURE_MEMORY_FOR_THIS -DUSE_AMQP -DUSE_MQTT -D_CRT_SECURE_NO_WARNINGS -D_WIN32 -D_WINSOCK_DEPRECATED_NO_WARNINGS -ID:\\IOTHub\\vcpkg_new\\azure-iot-sdk-c\\deps\\azure-macro-utils-c\\inc -ID:\\IOTHub\\vcpkg_new\\azure-iot-sdk-c\\deps\\umock-c\\inc -ID:\\IOTHub\\vcpkg_new\\azure-iot-sdk-c\\c-utility\\inc -ID:\\IOTHub\\vcpkg_new\\azure-iot-sdk-c\\c-utility\\pal\\windows -ID:\\IOTHub\\vcpkg_new\\azure-iot-sdk-c\\iothub_client\\inc -ID:\\IOTHub\\vcpkg_new\\azure-iot-sdk-c\\uamqp\\inc -ID:\\IOTHub\\vcpkg_new\\azure-iot-sdk-c\\umqtt\\inc -ID:\\IOTHub\\vcpkg_new\\azure-iot-sdk-c\\deps\\parson /DWIN32 /D_WINDOWS /W3 /W3 /wd4232 /MDd /Zi /Ob0 /Od /RTC1   /WX /FoCMakeFiles\\gateway.dir\\src\\iothub_communicator_x509.c.obj /FdCMakeFiles\\gateway.dir/ /FS -c D:\\vscode_new\\cl1\\src\\iothub_communicator_x509.c",
+  "file": "D:/vscode_new/cl1/src/iothub_communicator_x509.c"
+}
+]

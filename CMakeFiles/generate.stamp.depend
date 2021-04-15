@@ -1,0 +1,27 @@
+# CMake generation dependency list for this directory.
+C:/CMake/share/cmake-3.20/Modules/CMakeCInformation.cmake
+C:/CMake/share/cmake-3.20/Modules/CMakeCXXInformation.cmake
+C:/CMake/share/cmake-3.20/Modules/CMakeCommonLanguageInclude.cmake
+C:/CMake/share/cmake-3.20/Modules/CMakeGenericSystem.cmake
+C:/CMake/share/cmake-3.20/Modules/CMakeInitializeConfigs.cmake
+C:/CMake/share/cmake-3.20/Modules/CMakeLanguageInformation.cmake
+C:/CMake/share/cmake-3.20/Modules/CMakeRCInformation.cmake
+C:/CMake/share/cmake-3.20/Modules/CMakeSystemSpecificInformation.cmake
+C:/CMake/share/cmake-3.20/Modules/CMakeSystemSpecificInitialize.cmake
+C:/CMake/share/cmake-3.20/Modules/CPack.cmake
+C:/CMake/share/cmake-3.20/Modules/CPackComponent.cmake
+C:/CMake/share/cmake-3.20/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/CMake/share/cmake-3.20/Modules/Compiler/MSVC-C.cmake
+C:/CMake/share/cmake-3.20/Modules/Compiler/MSVC-CXX.cmake
+C:/CMake/share/cmake-3.20/Modules/Platform/Windows-MSVC-C.cmake
+C:/CMake/share/cmake-3.20/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/CMake/share/cmake-3.20/Modules/Platform/Windows-MSVC.cmake
+C:/CMake/share/cmake-3.20/Modules/Platform/Windows.cmake
+C:/CMake/share/cmake-3.20/Modules/Platform/WindowsPaths.cmake
+C:/CMake/share/cmake-3.20/Templates/CPackConfig.cmake.in
+D:/vscode_new/cl1/CMakeFiles/3.20.0-rc2/CMakeCCompiler.cmake
+D:/vscode_new/cl1/CMakeFiles/3.20.0-rc2/CMakeCXXCompiler.cmake
+D:/vscode_new/cl1/CMakeFiles/3.20.0-rc2/CMakeRCCompiler.cmake
+D:/vscode_new/cl1/CMakeFiles/3.20.0-rc2/CMakeSystem.cmake
+D:/vscode_new/cl1/CMakeLists.txt
+D:/vscode_new/cl1/configs/azure_iot_sdksFunctions.cmake

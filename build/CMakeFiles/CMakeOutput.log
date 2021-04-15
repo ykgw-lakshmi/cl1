@@ -1,0 +1,79 @@
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.24.28314/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.24.28319 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.24.28319.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/vscode_new/cl1/build/CMakeFiles/3.20.1/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.24.28314/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.24.28319 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.24.28319.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "D:/vscode_new/cl1/build/CMakeFiles/3.20.1/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/vscode_new/cl1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_a6129/fast && C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_a6129.dir\build.make CMakeFiles/cmTC_a6129.dir/build
+mingw32-make[1]: Entering directory 'D:/vscode_new/cl1/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a6129.dir/CMakeCCompilerABI.c.obj
+C:\msys64\mingw64\bin\cmake.exe -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_a6129.dir\CMakeCCompilerABI.c.obj.d --working-dir=D:\vscode_new\cl1\build\CMakeFiles\CMakeTmp --filter-prefix="Note: including file: " -- C:\PROGRA~2\MIB055~1\2019\PROFES~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_a6129.dir\CMakeCCompilerABI.c.obj /FdCMakeFiles\cmTC_a6129.dir/ /FS -c C:\msys64\mingw64\share\cmake-3.20\Modules\CMakeCCompilerABI.c
+CMakeCCompilerABI.c
+Linking C executable cmTC_a6129.exe
+C:\msys64\mingw64\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_a6129.dir\link.txt --verbose=1
+C:\msys64\mingw64\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_a6129.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MIB055~1\2019\PROFES~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_a6129.dir\objects1.rsp  /out:cmTC_a6129.exe /implib:cmTC_a6129.lib /pdb:D:\vscode_new\cl1\build\CMakeFiles\CMakeTmp\cmTC_a6129.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
+mingw32-make[1]: Leaving directory 'D:/vscode_new/cl1/build/CMakeFiles/CMakeTmp'
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/vscode_new/cl1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_7c812/fast && C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_7c812.dir\build.make CMakeFiles/cmTC_7c812.dir/build
+mingw32-make[1]: Entering directory 'D:/vscode_new/cl1/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_7c812.dir/CMakeCXXCompilerABI.cpp.obj
+C:\msys64\mingw64\bin\cmake.exe -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_7c812.dir\CMakeCXXCompilerABI.cpp.obj.d --working-dir=D:\vscode_new\cl1\build\CMakeFiles\CMakeTmp --filter-prefix="Note: including file: " -- C:\PROGRA~2\MIB055~1\2019\PROFES~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_7c812.dir\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\cmTC_7c812.dir/ /FS -c C:\msys64\mingw64\share\cmake-3.20\Modules\CMakeCXXCompilerABI.cpp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_7c812.exe
+C:\msys64\mingw64\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_7c812.dir\link.txt --verbose=1
+C:\msys64\mingw64\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_7c812.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MIB055~1\2019\PROFES~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_7c812.dir\objects1.rsp  /out:cmTC_7c812.exe /implib:cmTC_7c812.lib /pdb:D:\vscode_new\cl1\build\CMakeFiles\CMakeTmp\cmTC_7c812.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
+mingw32-make[1]: Leaving directory 'D:/vscode_new/cl1/build/CMakeFiles/CMakeTmp'
+
+
+
